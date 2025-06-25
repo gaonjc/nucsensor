@@ -1,2 +1,4 @@
 https://www.waveshare.com/wiki/OV9281-110_Camera
 https://www.waveshare.com/ov9281-110-camera.htm
+
+driver -> https://github.com/ArduCAM/ov9281_driver/tree/main
